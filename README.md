@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm ffXder</h1>
-<h3 align="center">I'm a student currently learning different programming languages</h3>
+<h1 align="center">Hi 👋, I'm @ffXder</h1>
+<h3 align="center">I'm a BSIT student currently learning different programming languages</h3>
 
 - 🔭 I’m currently working on [System for our Finals](https://github.com/ffXder/GovAgencySystem/blob/main/RunSystem.java)
 
-- 🌱 I’m currently learning **Java, Python, and Front-end Development**
+- 🌱 I’m currently learning **Java, Python, and Frontend Development**
 
 - 👀 I’m interested in **Programming**
 
