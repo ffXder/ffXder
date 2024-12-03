@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm @ffXder</h1>
 <h3 align="center">I'm a BSIT student currently learning different programming languages</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ffxder&label=Profile%20views&color=0e75b6&style=flat" alt="ffxder" /> </p>
+
 - 🔭 I’m currently working on [System for our Finals](https://github.com/ffXder/GovAgencySystem/blob/main/RunSystem.java)
 
 - 🌱 I’m currently learning **Java, Python, and Frontend Development**
