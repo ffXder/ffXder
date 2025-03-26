@@ -9,6 +9,8 @@
 
 - 👀 I’m interested in **Programming**
 
+- 💻 My latest project [Weather App](weatherappffxder.netlify.app)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
