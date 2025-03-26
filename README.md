@@ -8,8 +8,8 @@
 - 🌱 I’m currently learning **Java, Python, and Front-end Development**
 
 - 👀 I’m interested in **Programming**
-
-- 💻 My latest project [Weather App](weatherappffxder.netlify.app)
+[
+- 💻 My latest project [Weather App](https://github.com/ffXder/weather-app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
