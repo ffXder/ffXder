@@ -11,7 +11,6 @@
 
 - 💻 My latest project [Weather App](https://github.com/ffXder/weather-app)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
