@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [System for our Finals](https://github.com/ffXder/GovAgencySystem/blob/main/RunSystem.java)
 
-- 🌱 I’m currently learning **Java, Python, and Front-end Development**
+- 🌱 I’m currently learning **Full-Stack Development**
 
 - 👀 I’m interested in **Programming**
 
