@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ffxder&label=Profile%20views&color=0e75b6&style=flat" alt="ffxder" /> </p>
 
-- 🔭 I’m currently working on [System for our Finals](https://github.com/ffXder/GovAgencySystem/blob/main/RunSystem.java)
+- 🔭 I’m currently working on [Photobooth App📸](https://github.com/ffXder/photobooth-web)
 
 - 🌱 I’m currently learning **React and Springboot**
 
 - 👀 I’m interested in **Full-Stack Development**
 
-- 💻 My latest project [Weather App](https://github.com/ffXder/weather-app)
+- 💻 My latest project [Employee Management System](https://github.com/ffXder/Employee-Management-System)
 
 <p align="left">
 </p>
